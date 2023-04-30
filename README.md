@@ -1,6 +1,6 @@
 <html>
   </head>
-  <img src="/Users/katherinewu/Library/CloudStorage/GoogleDrive-kath.j.wu@gmail.com/My Drive/2. Career/Wu_Headshot.v2.png">
+  <img src="/Users/katherinewu/Library/CloudStorage/GoogleDrive-kath.j.wu@gmail.com/My Drive/2. Career/Wu Headshot_Shortened.jpg">
   <body>
     <header>
       <h1>Katie Wu</h1>
