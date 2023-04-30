@@ -1,5 +1,4 @@
 <html>
-  </head>
   <img src="/Users/katherinewu/Desktop/Wu Headshot_Shortened.jpg">
   <body>
     <header>
