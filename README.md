@@ -1,16 +1,8 @@
-<!DOCTYPE html>
 <html>
   <head>
     <title>Katie Wu</title>
-    <style>
-      h1 {
-        font-size: 48px;
-      }
-      h2 {
-        font-size: 24px;
-      }
-    </style>
   </head>
+  <img src="/Users/katherinewu/Library/CloudStorage/GoogleDrive-kath.j.wu@gmail.com/My Drive/2. Career/Wu Headshot_Shortened.jpg" alt="Description of your image">
   <body>
     <header>
       <h1>Katie Wu</h1>
