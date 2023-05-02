@@ -1,6 +1,15 @@
 <html>
-  <img src="/Users/katherinewu/Desktop/Wu Headshot_Shortened.jpg">
+  <head>
+  <title>Katie Wu</title>
+  <style>
+    body {
+      background-color: black;
+      color: white;
+    }
+  </style>
+</head>
   <body>
+  <img src="/Users/katherinewu/Desktop/Wu Headshot_Shortened.jpg">
     <header>
       <h1>Katie Wu</h1>
       <h3>PhD Student, Emmett Interdisciplinary Program in Environment and Resources (E-IPER), Stanford University</h3>
