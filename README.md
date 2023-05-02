@@ -1,6 +1,6 @@
 <html>
   <body>
-  <img src="/img:/headshot.png"/>
+  <img src="/img:/headshot.PNG"/>
     <header>
       <h1>Katie Wu</h1>
       <h2>PhD Student, Emmett Interdisciplinary Program in Environment and Resources (E-IPER), Stanford University</h2>
