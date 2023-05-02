@@ -1,10 +1,4 @@
 <html>
-    	<style>
-		body {
-			background-color: black;
-			color: white;
-		}
-	</style>
   <img src="/Users/katherinewu/Desktop/Wu Headshot_Shortened.jpg">
   <body>
     <header>
