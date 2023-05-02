@@ -1,15 +1,5 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="UTF-8">
-    <title>Katie Wu</title>
-    <style>
-      body {
-        background-color: black;
-        color: grey;
-      }
-    </style>
-  </head>
   <body>
   <img src="/img:/headshot.png"/>
     <header>
