@@ -1,4 +1,13 @@
 <html>
+  <head>
+	<title>My Website</title>
+	<style>
+		body {
+			background-color: black;
+			color: white;
+		}
+	</style>
+</head>
   <body>
   <img src="/img:/headshot.png"/>
     <header>
