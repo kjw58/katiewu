@@ -1,6 +1,6 @@
 <html>
   <img src="/Users/katherinewu/Desktop/Wu Headshot_Shortened.jpg">
- 
+  <body>
   	<style>
 		body {
 			background-color: black;
