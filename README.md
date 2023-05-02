@@ -1,5 +1,7 @@
 <html>
-    <head>
+  <head>
+    <meta charset="UTF-8">
+    <title>Katie Wu</title>
     <style>
       body {
         background-color: black;
