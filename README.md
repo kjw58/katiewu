@@ -1,6 +1,5 @@
 <html>
   <head>
-	<title>My Website</title>
 	<style>
 		body {
 			background-color: black;
