@@ -1,13 +1,4 @@
 <html>
-  <head>
-  <title>Katie Wu</title>
-  <style>
-    body {
-      background-color: black;
-      color: white;
-    }
-  </style>
-</head>
   <body>
   <img src="/Users/katherinewu/Desktop/Wu Headshot_Shortened.jpg">
     <header>
