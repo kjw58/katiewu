@@ -4,7 +4,7 @@
 </head>
   <body>
   <section id="cv">
-      <a href="cv/Wu_Katherine_CV.pdf">Download CV</a>
+      <a href="cv/Wu_Katherine_CV.pdf">cv</a>
     </section>
   <img src="./img:/headshot3.png"/>
     <header>
