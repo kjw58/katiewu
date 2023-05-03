@@ -14,7 +14,7 @@
       <h2>PhD Student, Emmett Interdisciplinary Program in Environment and Resources (E-IPER), Stanford University</h2>
     </div>
   </header>
-  <div class="column left">
+  <div class="left-column">
     <div class="sidebar">
       <img src="./img:/headshot3.png" style="float:left; margin-right: 10px;">
       <ul>

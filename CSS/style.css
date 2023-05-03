@@ -19,32 +19,17 @@
     padding: 14px 16px;
     text-decoration: none;
   }
-
-  .column {
+  
+/* Left column */
+.left-column {
     float: left;
-  }
-  
-  /* Left and right column */
-  .column.left {
-    width: 25%;
-  }
-
-  
-  /* Middle column */
-  .column.middle {
-    width: 50%;
-  }
-
-  .column.right {
     width: 25%;
   }
   
-  /* Responsive layout - makes the three columns stack on top of each other instead of next to each other on smaller screens (600px wide or less) */
-  @media screen and (max-width: 600px) {
-    .column.left, .column.middle, .column.right {
-      width: 100%;
-    }
-  } 
+  /* Right column */
+  .right-column {
+    margin-left: 25%; /* width of left column */
+  }
 
   .sidebar {
     float: left;
