@@ -6,10 +6,10 @@
   <div class="topnav">
     <a href="https://kjw58.github.io/katiewu.github.io/">about</a>
     <a href="cv/Wu_Katherine_CV.pdf">cv</a>
+    <h1>Katie Wu</h1>
   </div>
   <header>
     <div class="header-container">
-      <h1>Katie Wu</h1>
       <h2>PhD Student, Emmett Interdisciplinary Program in Environment and Resources (E-IPER), Stanford University</h2>
     </div>
   </header>
