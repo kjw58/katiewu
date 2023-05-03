@@ -1,6 +1,9 @@
 <html>
+<head>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
   <body>
-  <img src="./img:/headshot2.png"/>
+  <img src="./img:/headshot3.png"/>
     <header>
       <h1>Katie Wu</h1>
       <h2>PhD Student, Emmett Interdisciplinary Program in Environment and Resources (E-IPER), Stanford University</h2>
