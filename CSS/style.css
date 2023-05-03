@@ -37,6 +37,7 @@
     float: left;
     width: 20%;
     font-size: 14px; /* set the font size to match the image */
+    height: auto;
   }
   
   .right-column {
@@ -50,6 +51,12 @@
     text-align: left;
   }
   
+  .image {
+    display: block;
+    width: 100%;
+    height: auto; /* set height to auto so the image scales proportionally */
+  }
+
   /* Main content */
   .main-content {
     margin-left: 300px; /* adjust the left margin as needed */
