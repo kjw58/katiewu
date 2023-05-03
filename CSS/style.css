@@ -13,17 +13,11 @@
   .topnav a {
     float: left;
     display: block;
-    color: #f2f2f2;
+    color: black;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
   }
-  
-  /* Links - change color on hover */
-  .topnav a:hover {
-    background-color: #ddd;
-    color: black;
-  } 
 
   .column {
     float: left;
@@ -45,6 +39,27 @@
       width: 100%;
     }
   }
+
+  .sidenav {
+    /*height: 100%; /* Full-height: remove this if you want "auto" height */
+    width: 200px; /* Set the width of the sidebar */
+    position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+    z-index: 1; /* Stay on top */
+    top: 0; /* Stay at the top */
+    left: 0;
+    background-color: #555; /* dark grey */
+    overflow-x: hidden; /* Disable horizontal scroll */
+    padding-top: 20px;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .sidenav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 10px;
+    color: #818181;
+    display: block;
+  }  
 
   .footer {
     background-color: #F1F1F1;
