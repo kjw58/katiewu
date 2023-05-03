@@ -1,9 +1,9 @@
 /* Header */
-/*.header {
+.header {
     background-color: #F1F1F1;
     text-align: left;
     padding: 20px;
-  }*/
+  }
   
   /* Navbar */
   .topnav {
@@ -26,6 +26,7 @@
   
   /* Page title */
   h1 {
+    float: left
     color: #34282C;
     font-size: 22px;
     font-weight: bold;
