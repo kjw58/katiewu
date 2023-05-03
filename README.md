@@ -13,7 +13,7 @@
       </div>
     </header>
   <body>
-    <div class="container">
+    <div class="column left">
       <div class="sidebar">
        <img src="./img:/headshot3.png" style="float:left; margin-right: 10px;">
       <ul>
