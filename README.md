@@ -9,9 +9,7 @@
     <h1>Katie Wu</h1>
   </div>
   <header>
-    <div class="header-container">
-      <h2>PhD Student, Emmett Interdisciplinary Program in Environment and Resources (E-IPER), Stanford University</h2>
-    </div>
+    <h2>PhD Student, Emmett Interdisciplinary Program in Environment and Resources (E-IPER), Stanford University</h2>
   </header>
   <div class="left-column">
     <div class="sidebar">
