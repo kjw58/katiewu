@@ -13,7 +13,7 @@
   .topnav a {
     float: right;
     display: block;
-    color: darkgrey;
+    color: #34282C; 
     font-size: 22px;
     text-align: left;
     padding: 14px 16px;
@@ -21,7 +21,7 @@
   }
   
   h1 {
-    color: darkgrey;
+    color: #34282C;
     font-size: 22px;
     font-weight: bold;
     text-align: left;
@@ -60,8 +60,8 @@
   }
   
   h2 {
-    color: darkgrey;
-    font-size: 14px;
+    color: #34282C;
+    font-size: 10px;
     font-weight: bold;
     text-align: left;
   }
