@@ -40,13 +40,6 @@
     margin-left: 20%; /* width of left column */
   }
   
-  h2 {
-    color: #34282C;
-    font-size: 10px;
-    font-weight: bold;
-    text-align: left;
-  }
-  
   .img {
     display: block;
     width: 100%;
@@ -64,6 +57,14 @@
   .body {
     font-family: "Roboto",sans-serif;
     font-weight: 300;
+  }
+
+  h2 {
+    color: #34282C;
+    font-family: "Roboto",sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+    text-align: left;
   }
 
   /* Footer */
