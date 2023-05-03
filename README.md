@@ -17,7 +17,7 @@
      <div class="sidenav">
       <a href="https://www.linkedin.com/in/katiewu24/">LinkedIn</a>
       <a href="https://eiper.stanford.edu/people/katie-wu">Stanford Profile</a>
-      <a href="katwu@stanford.edu">Contact</a>
+      <a href="mailto:katwu@stanford.edu">Contact</a>
     </div>
     <main>
       <p>My research uses large-scale data analysis and AI to monitor how infrastructure development impacts human and planetary health in an urban context. My focus is on optimizing cities to improve social connectedness and well-being for climate resilience. I employ a variety of unconventional data sources, including satellite imagery, citizen-sourced data, and social media content to model the built and natural environment for geographical locations with limited conventional data. </p> 
