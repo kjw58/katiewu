@@ -4,9 +4,9 @@
 </head>
 <body>
   <div class="topnav">
+    <h1>Katie Wu</h1>
     <a href="https://kjw58.github.io/katiewu.github.io/">about</a>
     <a href="cv/Wu_Katherine_CV.pdf">cv</a>
-    <h1>Katie Wu</h1>
   </div>
   <header>
   </header>
