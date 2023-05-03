@@ -8,8 +8,6 @@
     <a href="https://kjw58.github.io/katiewu.github.io/">about</a>
     <h1>Katie Wu</h1>
   </div>
-  <header>
-  </header>
   <div class="left-column">
     <div>
       <img src="./img:/headshot3.png">
