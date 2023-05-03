@@ -11,7 +11,7 @@
   
   /* Navbar links */
   .topnav a {
-    float: left;
+    float: right;
     display: block;
     color: black;
     font-size: 22px;
