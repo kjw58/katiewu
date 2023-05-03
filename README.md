@@ -15,7 +15,7 @@
   </header>
   <div class="left-column">
     <div class="sidebar">
-      <img src="./img:/headshot_circle.png" style="float:left; margin-right: 10px;">
+      <img src="./img:/headshot3.png" style="float:left; margin-right: 10px;">
       <ul>
         <li><a href="https://www.linkedin.com/in/katiewu24/">LinkedIn</a></li>
         <li><a href="https://eiper.stanford.edu/people/katie-wu">Stanford Profile</a></li>
