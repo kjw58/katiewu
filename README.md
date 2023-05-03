@@ -15,7 +15,7 @@
         <p>PhD Student, Emmett Interdisciplinary Program in Environment and Resources (E-IPER), Stanford University</p>
         <li><a href="https://www.linkedin.com/in/katiewu24/">LinkedIn</a></li>
         <li><a href="https://eiper.stanford.edu/people/katie-wu">Stanford Profile</a></li>
-        <li><a href="mailto:katwu@stanford.edu">Contact</a></li>
+        <li><a href="mailto:katwu@stanford.edu">Email</a></li>
       </ul>
     </div>
   </div>
