@@ -3,6 +3,9 @@
   <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
   <body>
+  <section id="cv">
+      <a href="cv/Wu_Katherine_CV.pdf">Download CV</a>
+    </section>
   <img src="./img:/headshot3.png"/>
     <header>
       <h1>Katie Wu</h1>
