@@ -10,7 +10,7 @@
   </div>
   <div class="left-column">
     <div>
-      <img src="./img:/headshot3.png">
+      <img src="./img:/headshot_circle.png">
       <ul>
         <p>PhD Student, Emmett Interdisciplinary Program in Environment and Resources (E-IPER), Stanford University</p>
         <li><a href="https://www.linkedin.com/in/katiewu24/">LinkedIn</a></li>
