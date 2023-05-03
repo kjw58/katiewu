@@ -3,16 +3,15 @@
   <link rel="stylesheet" type="text/css" href="CSS/styles.css">
 </head>
   <body>
+  	<div class="topnav">
+		  <a href="https://kjw58.github.io/katiewu.github.io/">about</a>
+		  <a href="cv/Wu_Katherine_CV.pdf">cv</a>
+		  <a href="#">Contact</a>
+	  </div>
     <header>
      <div class="header-container">
       <h1>Katie Wu</h1>
       <h2>PhD Student, Emmett Interdisciplinary Program in Environment and Resources (E-IPER), Stanford University</h2>
-        <nav>
-          <ul>
-            <li><a href="#about">about</a></li>
-            <li><a href="cv/Wu_Katherine_CV.pdf" target="_blank">cv</a></li>
-          </ul>
-        </nav>
       </div>
     </header>
      <img src="./img:/headshot3.png" style="float:left; margin-right: 10px;"/>
@@ -26,3 +25,4 @@
     </main>
   </body>
 </html>
+
