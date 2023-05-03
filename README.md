@@ -3,21 +3,19 @@
   <link rel="stylesheet" type="text/css" href="CSS/styles.css">
 </head>
   <body>
-  <section id="cv">
-      <a href="cv/Wu_Katherine_CV.pdf">cv</a>
-    </section>
-  <img src="./img:/headshot3.png"/>
     <header>
      <div class="header-container">
       <h1>Katie Wu</h1>
+      <h2>PhD Student, Emmett Interdisciplinary Program in Environment and Resources (E-IPER), Stanford University</h2>
         <nav>
           <ul>
             <li><a href="#about">About</a></li>
+            <li><a href="cv/Wu_Katherine_CV.pdf" target="_blank">cv</a></li>
           </ul>
         </nav>
       </div>
     </header>
-      <h2>PhD Student, Emmett Interdisciplinary Program in Environment and Resources (E-IPER), Stanford University</h2>
+     <img src="./img:/headshot3.png"/>
     <main>
       <h3 id="about">About</h3>
       <p>My research uses large-scale data analysis and machine learning techniques to monitor how infrastructure development impacts human and planetary health in an urban context. My focus is on implementing optimal development opportunities, policies, and strategies prioritizing resource access, equity, human health, and nature. </p> 
