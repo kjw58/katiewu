@@ -13,7 +13,7 @@
   .topnav a {
     float: right;
     display: block;
-    color: black;
+    color: darkgrey;
     font-size: 22px;
     text-align: left;
     padding: 14px 16px;
@@ -21,6 +21,7 @@
   }
   
   h1 {
+    color: darkgrey;
     font-size: 22px;
     font-weight: bold;
     text-align: left;
@@ -29,17 +30,17 @@
 /* Left column */
 .left-column {
     float: left;
-    width: 30%;
+    width: 20%;
   }
   
   /* Right column */
   .right-column {
-    margin-left: 30%; /* width of left column */
+    margin-left: 20%; /* width of left column */
   }
 
   .sidebar {
     float: left;
-    width: 80%;
+    width: 100%;
     padding: 10px;
   }
   
@@ -58,6 +59,13 @@
     margin-bottom: 10px;
   }
   
+  h2 {
+    color: darkgrey;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: left;
+  }
+
   /*.sidebar a {
     display: block;
     padding: 10px;
