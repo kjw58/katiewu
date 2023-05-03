@@ -21,8 +21,7 @@ nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: #555;
-  color: #fff;
+  color: #555;
   padding: 10px;
 }
 
@@ -46,13 +45,13 @@ a {
 }
 
 .sidenav {
-  height: 100%; /* Full-height: remove this if you want "auto" height */
+  /*height: 100%; /* Full-height: remove this if you want "auto" height */
   width: 200px; /* Set the width of the sidebar */
   position: fixed; /* Fixed Sidebar (stay in place on scroll) */
   z-index: 1; /* Stay on top */
   top: 0; /* Stay at the top */
   left: 0;
-  background-color: #111; /* Black */
+  background-color: #555; /* dark grey */
   overflow-x: hidden; /* Disable horizontal scroll */
   padding-top: 20px;
 }
@@ -61,7 +60,7 @@ a {
 .sidenav a {
   padding: 6px 8px 6px 16px;
   text-decoration: none;
-  font-size: 25px;
+  font-size: 10px;
   color: #818181;
   display: block;
 }
