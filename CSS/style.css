@@ -6,7 +6,7 @@
   .topnav a {
     float: right;
     display: block;
-    color: #34282C;
+    color: #413839;
     font-size: 22px;
     text-align: left;
     padding: 14px 16px;
@@ -20,7 +20,7 @@
   /* Page title */
   h1 {
     /*float: left;*/
-    color: #34282C;
+    color: #413839;
     font-size: 22px;
     font-weight: bold;
     text-align: left;
@@ -47,7 +47,7 @@
     text-align: left;
   }
   
-  .image {
+  .img {
     display: block;
     width: 100%;
     height: auto; /* set height to auto so the image scales proportionally */
