@@ -13,12 +13,11 @@
         <nav>
           <ul>
             <li><a href="#about">About</a></li>
-            <li><a href="#projects">Projects</a></li>
           </ul>
         </nav>
       </div>
-      <h2>PhD Student, Emmett Interdisciplinary Program in Environment and Resources (E-IPER), Stanford University</h2>
     </header>
+      <h2>PhD Student, Emmett Interdisciplinary Program in Environment and Resources (E-IPER), Stanford University</h2>
     <main>
       <h3 id="about">About</h3>
       <p>My research uses large-scale data analysis and machine learning techniques to monitor how infrastructure development impacts human and planetary health in an urban context. My focus is on implementing optimal development opportunities, policies, and strategies prioritizing resource access, equity, human health, and nature. </p> 
