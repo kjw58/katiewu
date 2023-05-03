@@ -14,7 +14,7 @@
     <div>
       <img src="./img:/headshot3.png" style="float:left; margin-right: 10px;">
       <ul>
-        <h2>PhD Student, Emmett Interdisciplinary Program in Environment and Resources (E-IPER), Stanford University</h2>
+        <p>PhD Student, Emmett Interdisciplinary Program in Environment and Resources (E-IPER), Stanford University</p>
         <li><a href="https://www.linkedin.com/in/katiewu24/">LinkedIn</a></li>
         <li><a href="https://eiper.stanford.edu/people/katie-wu">Stanford Profile</a></li>
         <li><a href="mailto:katwu@stanford.edu">Contact</a></li>

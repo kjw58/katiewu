@@ -1,48 +1,48 @@
+/* Header */
 .header {
     background-color: #F1F1F1;
     text-align: left;
     padding: 20px;
   }
-
-   /* The navbar container */
-.topnav {
+  
+  /* Navbar */
+  .topnav {
     overflow: hidden;
   }
   
-  /* Navbar links */
   .topnav a {
     float: right;
     display: block;
-    color: #34282C; 
+    color: #34282C;
     font-size: 22px;
     text-align: left;
     padding: 14px 16px;
     text-decoration: none;
   }
-
-  /* Links - change color on hover */
-.topnav a:hover {
-    text-decoration: underline;
-  } 
   
+  .topnav a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Page title */
   h1 {
     color: #34282C;
     font-size: 22px;
     font-weight: bold;
     text-align: left;
   }
-
-/* Left column */
-.left-column {
+  
+  /* Columns */
+  .left-column {
     float: left;
     width: 20%;
   }
   
-  /* Right column */
   .right-column {
     margin-left: 20%; /* width of left column */
   }
-
+  
+  /* Sidebar */
   .sidebar {
     float: left;
     width: 100%;
@@ -70,40 +70,20 @@
     font-weight: bold;
     text-align: left;
   }
-
-  /*.sidebar a {
-    display: block;
-    padding: 10px;
-    background-color: #ccc;
-    color: #333;
-    text-decoration: none;
-    border-radius: 5px;
-  }*/
-
-  /* Sidebar style */
-/*.sidebar {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 200px;
-    height: 100%;
-    background-color: #f2f2f2;
-    padding: 20px;
-    box-sizing: border-box;
-    overflow-y: scroll;
-  }*/
-
+  
+  /* Main content */
   .main-content {
     margin-left: 300px; /* adjust the left margin as needed */
     padding: 20px; /* add padding for better readability */
   }
   
+  /* Footer */
   .footer {
     background-color: #F1F1F1;
     text-align: center;
     padding: 20px;
   }
-
+  
   footer a {
     color: #333;
     text-decoration: none;
