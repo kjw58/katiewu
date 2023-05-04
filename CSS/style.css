@@ -38,7 +38,7 @@ h1 {
 
 .right-column {
   margin-left: 20%; /* width of left column */
-  padding-left: 20px;
+  padding: 20px;
 }
 
 /* Columns for mobile */
