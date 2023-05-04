@@ -48,10 +48,10 @@ h1 {
   margin-bottom: 20px; /* add some spacing between columns
 }*/
 
-.img {
+/*.img {
   display: block;
   width: 100%;
-  height: auto; /* set height to auto so the image scales proportionally */
+  height: auto; /* set height to auto so the image scales proportionally 
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
@@ -64,7 +64,7 @@ a {
 
 a img {
   margin-right: 5px;
-}
+}*/
 
 /* Main content */
 .main-content {
