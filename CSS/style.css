@@ -39,9 +39,6 @@ h1 {
 
 .left-column li {
   list-style: none;
-}
-
-.left-column li {
   color: #333; /* change the font color */
   font-family: "Roboto", sans-serif; /* change the font type */
   margin-bottom: 10px; /* add some space between list items */
