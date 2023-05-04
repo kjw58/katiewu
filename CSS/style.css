@@ -44,10 +44,18 @@ h1 {
 
 /* Columns for mobile */
 @media only screen and (max-width: 600px) {
-.left-column, .right-column {
+.left-column {
   width: 100%; /* full width*/ 
   margin-bottom: 20px; /*add some spacing between columns*/
 }
+
+/* Columns for mobile */
+@media only screen and (max-width: 600px) {
+  .right-column {
+    width: 100%; /* full width*/ 
+    margin-bottom: 20px; /*add some spacing between columns*/
+  }
+  
 
 .main-image {
   display: block;
@@ -71,7 +79,7 @@ a img {
 .main-content {
   margin-left: 300px; /* adjust the left margin as needed */
   padding: 20px; /* add padding for better readability */
-  font-size: 18px;
+  font-size: 20px;
 }
 
 .body {
