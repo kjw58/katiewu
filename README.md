@@ -32,16 +32,6 @@
 </body>
 <footer>
   <div class="footer-container">
-    <p>Copyright &copy; 2023 - My Website</p>
-    <nav>
-      <ul>
-        <li><a href="#">Home</a></li>
-        <li><a href="#">About</a></li>
-        <li><a href="#">Contact</a></li>
-      </ul>
-    </nav>
-  </div>
-</footer>
     <p>&copy; Copyright 2023 Katie Wu.
     Hosted by GitHub Pages.
     Last Updated: May 5, 2023.
