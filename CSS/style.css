@@ -46,7 +46,8 @@ h1 {
   display: block;
   width: 100%;
   height: auto; /* set height to auto so the image scales proportionally */ 
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 50%; /* makes the image circular */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* adds a drop shadow */
 }
 
 /* Main content */
