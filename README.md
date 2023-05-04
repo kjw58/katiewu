@@ -18,6 +18,9 @@
           <li><a href="https://www.linkedin.com/in/katiewu24/">
             <img src="./img/LinkedIn.png">
             <span>LinkedIn</span>
+            <li><a href="https://github.com/kjw58">
+            <img src="./img/Github.png">
+            <span>GitHub</span>
           </a></li>
           <li><a href="mailto:katwu@stanford.edu">
             <img src="./img/Email.png">
