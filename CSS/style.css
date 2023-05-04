@@ -82,7 +82,7 @@ a img {
   font-size: 20px;
 }
 
-.body {
+/*.body {
   font-family: "Roboto",sans-serif;
   font-weight: 300;
 }
@@ -93,7 +93,7 @@ h2 {
   font-weight: bold;
   font-size: 18px;
   text-align: left;
-}
+}*/
 
 /* Footer */
 footer.fixed-bottom {

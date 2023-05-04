@@ -35,7 +35,6 @@
         Hosted by GitHub Pages.
         Last Updated: May 5, 2023.
         </p>
-      </div>
     </footer>
   </body>
 </html>
