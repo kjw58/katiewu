@@ -34,12 +34,12 @@ h1 {
   width: 20%;
   font-size: 14px; /* set the font size to match the image */
   height: auto;
-  margin-right: 20px; /* add some space between left and right columns */
+  margin-right: 15px; /* add some space between left and right columns */
 }
 
 .right-column {
   margin-left: 20%; /* width of left column */
-  padding: 20px;
+  padding: 10px;
 }
 
 /* Columns for mobile */
