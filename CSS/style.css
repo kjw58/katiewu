@@ -91,6 +91,17 @@
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   }
 
+  a {
+    display: inline-flex;
+    align-items: center;
+    text-decoration: none;
+    color: #000000;
+  }
+  
+  a img {
+    margin-right: 5px;
+  }
+  
   /* Main content */
   .main-content {
     margin-left: 300px; /* adjust the left margin as needed */

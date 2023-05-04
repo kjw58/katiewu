@@ -13,9 +13,15 @@
       <img src="./img:/headshot_circle.png">
       <ul>
         <p>PhD Student @ Stanford, Emmett Interdisciplinary Program in Environment and Resources (E-IPER); researches urban ecology, health and well-being, and climate resilience </p>
-        <li><a href="https://www.linkedin.com/in/katiewu24/">LinkedIn</a></li>
+        <li><a href="https://www.linkedin.com/in/katiewu24/">
+          <img src="img:/LinkedIn.png">
+          <span>LinkedIn</span>
+        </a></li>
         <li><a href="https://eiper.stanford.edu/people/katie-wu">Stanford Profile</a></li>
-        <li><a href="mailto:katwu@stanford.edu">Email</a></li>
+        <li><a href="mailto:katwu@stanford.edu">
+          <img src="img:/Email.png">
+          <span>Email</span>
+        </a></li>
       </ul>
     </div>
   </div>
