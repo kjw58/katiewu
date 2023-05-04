@@ -55,7 +55,6 @@ h1 {
     width: 100%; /* full width*/ 
     margin-bottom: 20px; /*add some spacing between columns*/
   }
-  
 
 .main-image {
   display: block;
@@ -64,25 +63,16 @@ h1 {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-/*a {
-  display: inline-flex;
-  align-items: center;
-  text-decoration: none;
-  color: #000000;
-}
-
-a img {
-  margin-right: 5px;
-}*/
-
 /* Main content */
 .main-content {
   margin-left: 300px; /* adjust the left margin as needed */
   padding: 20px; /* add padding for better readability */
   font-size: 20px;
+  font-family: "Roboto",sans-serif;
+  font-weight: 300;
 }
 
-/*.body {
+.body {
   font-family: "Roboto",sans-serif;
   font-weight: 300;
 }
@@ -93,7 +83,7 @@ h2 {
   font-weight: bold;
   font-size: 18px;
   text-align: left;
-}*/
+}
 
 /* Footer */
 footer.fixed-bottom {
