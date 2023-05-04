@@ -37,6 +37,10 @@ h1 {
   margin-right: 20px; /* add some space between left and right columns */
 }
 
+.left-column ul {
+  list-style: none;
+}
+
 .right-column {
   margin-left: 20%; /* width of left column */
   padding: 20px;
