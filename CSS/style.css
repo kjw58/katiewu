@@ -40,15 +40,19 @@
     margin-left: 20%; /* width of left column */
   }
   
-  /* Columns for mobile */
-@media only screen and (max-width: 768px) {
-  .left-column {
-    width: 100%; /* full width */
-    margin-bottom: 20px; /* add some spacing between columns */
-  }
+  /* Clear floats after the columns */
+  .row::after {
+    content: "";
+    display: table;
+    clear: both;
+}
 
-  .right-column {
-    margin-left: 0; /* remove margin */
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .left-column, .right-column {
+    width: 100%;
+  }
+}
   
   .img {
     display: block;
