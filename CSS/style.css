@@ -42,13 +42,9 @@ h1 {
 
 /* Columns for mobile */
 @media only screen and (max-width: 600px) {
-.left-column {
+.left-column, .right-column {
   width: 100%; /* full width */
   margin-bottom: 20px; /* add some spacing between columns */
-}
-
-.right-column {
-  margin-left: 0; /* remove margin */
 }
 
 .img {
@@ -57,6 +53,18 @@ h1 {
   height: auto; /* set height to auto so the image scales proportionally */
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
+
+a {
+  display: inline-flex;
+  align-items: center;
+  text-decoration: none;
+  color: #000000;
+}
+
+a img {
+  margin-right: 5px;
+}
+
 /* Main content */
 .main-content {
   margin-left: 300px; /* adjust the left margin as needed */
