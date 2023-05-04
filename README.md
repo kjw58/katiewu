@@ -10,7 +10,7 @@
   </div>
   <div class="left-column">
     <div>
-      <img src="./img:/headshot_circle.png">
+      <img src="./img:/headshot_circle.png" class="main-image">
       <ul>
         <p>PhD Student @ Stanford, Emmett Interdisciplinary Program in Environment and Resources (E-IPER); researches urban ecology, health and well-being, and climate resilience </p>
         <li><a href="https://eiper.stanford.edu/people/katie-wu">Stanford Profile</a></li>
