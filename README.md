@@ -11,16 +11,16 @@
     </div>
     <div class="left-column">
       <div>
-        <img src="./img:/headshot_circle.png" class="main-image">
+        <img src="./img/headshot_circle.png" class="main-image">
         <ul>
           <p>PhD Student @ Stanford, Emmett Interdisciplinary Program in Environment and Resources (E-IPER); researches urban ecology, health and well-being, and climate resilience </p>
           <li><a href="https://eiper.stanford.edu/people/katie-wu">Stanford Profile</a></li>
           <li><a href="https://www.linkedin.com/in/katiewu24/">
-            <img src="./img:/LinkedIn.png">
+            <img src="./img/LinkedIn.png">
             <span>LinkedIn</span>
           </a></li>
           <li><a href="mailto:katwu@stanford.edu">
-            <img src="./img:/Email.png">
+            <img src="./img/Email.png">
             <span>Email</span>
           </a></li>
         </ul>
@@ -35,7 +35,6 @@
         Hosted by GitHub Pages.
         Last Updated: May 5, 2023.
         </p>
-      </div>
     </footer>
   </body>
 </html>
