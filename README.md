@@ -9,6 +9,7 @@
     <h1>Katie Wu</h1>
   </div>
   <div class="left-column">
+    <div>
       <img src="./img:/headshot_circle.png">
       <ul>
         <p>PhD Student @ Stanford, Emmett Interdisciplinary Program in Environment and Resources (E-IPER); researches urban ecology, health and well-being, and climate resilience </p>
@@ -22,6 +23,7 @@
           <span>Email</span>
         </a></li>
       </ul>
+    </div>  
   </div>
   <main class="main-content">
     <p>My research uses large-scale data analysis and AI to monitor how infrastructure development impacts human and planetary health in an urban context. My focus is on optimizing cities to improve social connectedness and well-being for climate resilience. I employ a variety of unconventional data sources, including satellite imagery, citizen-sourced data, and social media content to model the built and natural environment for geographical locations with limited conventional data. </p> 
