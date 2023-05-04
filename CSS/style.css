@@ -67,7 +67,7 @@
   }
   
   .right-column {
-    margin-left: 20%; /* width of left column */
+    margin-left: 20%; /* width of left column 
   }
   
   /* Clear floats after the columns 
@@ -101,7 +101,7 @@
   a img {
     margin-right: 5px;
   }
-  
+
   /* Main content */
   .main-content {
     margin-left: 300px; /* adjust the left margin as needed */
