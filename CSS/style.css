@@ -37,7 +37,7 @@ h1 {
   margin-right: 20px; /* add some space between left and right columns */
 }
 
-.left-column ul {
+.left-column li {
   list-style: none;
 }
 

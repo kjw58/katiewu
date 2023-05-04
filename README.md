@@ -18,7 +18,7 @@
           <li><a href="https://www.linkedin.com/in/katiewu24/">
             <img src="./img/LinkedIn.png">
             <span>LinkedIn</span>
-          <a></li>
+          </a></li>
             <li><a href="https://github.com/kjw58">
             <img src="./img/Github.png">
             <span>GitHub</span>
