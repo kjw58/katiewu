@@ -34,7 +34,7 @@ h1 {
   width: 20%;
   font-size: 14px; /* set the font size to match the image */
   height: auto;
-  margin-right: 15px; /* add some space between left and right columns */
+  margin-right: 20px; /* add some space between left and right columns */
 }
 
 .right-column {
@@ -89,13 +89,24 @@ h2 {
 
 /* Footer */
 .footer {
-  background-color: #F1F1F1;
+  background-color: #333;
+  color: #fff;
   text-align: center;
-  padding: 20px;
+  padding: 50px 0;
 }
 
-footer a {
-  color: #333;
-  text-decoration: none;
+.footer p {
+  margin: 0;
   font-size: 16px;
+  font-weight: 300;
+}
+
+.footer a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.footer a:hover {
+  text-decoration: underline;
 }
