@@ -95,32 +95,16 @@ h2 {
   text-align: left;
 }
 
-.footer-container {
-  background-color: #F1F1F1;
-  text-align: center;
-  padding: 10px;
+/* Footer */
+footer.fixed-bottom {
+  background-color: var(--global-footer-bg-color);
+  font-size: .75rem;
 }
 
-/* Footer 
-.footer-container {
-  background-color: #333;
-  color: #fff;
-  text-align: center;
-  padding: 50px 0;
+.fixed-bottom {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 1030;
 }
-
-.footer-container p {
-  margin: 0;
-  font-size: 16px;
-  font-weight: 300;
-}
-
-.footer-container a {
-  color: #fff;
-  text-decoration: none;
-  font-weight: 500;
-}
-
-.footer-container a:hover {
-  text-decoration: underline;
-}*/
