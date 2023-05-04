@@ -30,4 +30,21 @@
     <p>I'm a Dean's Graduate Scholar in the Doerr School of Sustainability and a Stanford Dalai Lama Fellow. Prior to Stanford, I studied data science and AI for Product Innovation at Duke University where I obtained a Master of Engineering Management. I was a Sustainability Graduate Intern at Lyft, Inc. where I completed and rebuilt their 2020 Greenhouse Gas (GHG) Inventory and Report and designed an air quality model forecasting potential health benefits of EV adoption for underserved communities. I received an M.S. in Medical Science from the University of Colorado School of Medicine and a B.S. in Animal Science with Distinction in Research from Cornell University. </p>
   </main>
 </body>
+<footer>
+  <div class="footer-container">
+    <p>Copyright &copy; 2023 - My Website</p>
+    <nav>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+    </nav>
+  </div>
+</footer>
+    <p>&copy; Copyright 2023 Katie Wu.
+    Hosted by GitHub Pages.
+    Last Updated: May 5, 2023.
+  </p>
+</footer>
 </html>
