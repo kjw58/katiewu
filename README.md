@@ -1,6 +1,6 @@
 <html>
 <head>
-  <link rel="stylesheet" type="text/css" href="css/style.css">
+  <link rel="stylesheet" type="text/css" href="CSS/style.css">
 </head>
 <body>
   <div class="topnav">
@@ -23,7 +23,7 @@
           <span>Email</span>
         </a></li>
       </ul>
-    </div>  
+    </div>
   </div>
   <main class="main-content">
     <p>My research uses large-scale data analysis and AI to monitor how infrastructure development impacts human and planetary health in an urban context. My focus is on optimizing cities to improve social connectedness and well-being for climate resilience. I employ a variety of unconventional data sources, including satellite imagery, citizen-sourced data, and social media content to model the built and natural environment for geographical locations with limited conventional data. </p> 
