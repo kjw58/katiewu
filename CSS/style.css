@@ -73,16 +73,11 @@ h2 {
 
 /* Footer */
 footer.fixed-bottom {
-  background-color: var(--global-footer-bg-color);
+  background-color: black;
+  color: white;
   font-size: .75rem;
-}
-
-.fixed-bottom {
-  position: fixed;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  z-index: 1030;
+  text-align: center;
+  padding: 10px;
 }
 
   /* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other */
