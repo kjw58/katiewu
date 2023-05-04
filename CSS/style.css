@@ -42,20 +42,6 @@ h1 {
   padding: 20px;
 }
 
-/* Columns for mobile */
-@media only screen and (max-width: 600px) {
-.left-column {
-  width: 100%; /* full width*/ 
-  margin-bottom: 20px; /*add some spacing between columns*/
-}
-
-/* Columns for mobile */
-@media only screen and (max-width: 600px) {
-  .right-column {
-    width: 100%; /* full width*/ 
-    margin-bottom: 20px; /*add some spacing between columns*/
-  }
-
 .main-image {
   display: block;
   width: 100%;
@@ -98,3 +84,19 @@ footer.fixed-bottom {
   left: 0;
   z-index: 1030;
 }
+
+  /* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other */
+  @media screen and (max-width: 800px) {
+    .left-column, .right-column {   
+      width: 100%;
+      padding: 0;
+    }
+  }
+  
+  /* Responsive layout - when the screen is less than 400px wide, make the navigation links stack on top of each other instead of next to each other */
+  @media screen and (max-width: 400px) {
+    .topnav a {
+      float: none;
+      width: 100%;
+    }
+  }
