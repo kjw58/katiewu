@@ -29,20 +29,24 @@
   
   /* Columns */
   .left-column {
-    list-style: none;
-    float: left;
+    display: flex;
+    flex-direction: column;
     width: 20%; /* Adjust the width as needed */
     font-size: 14px;
-    height: auto;
     margin-right: 20px;
   }
   
-  .left-column li {
+  .left-column ul {
     list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .left-column li {
     color: #413839;
     font-family: "Roboto", sans-serif;
     margin-bottom: 10px;
-  }
+  }  
   
   .right-column {
     padding: 20px;
