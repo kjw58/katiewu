@@ -83,6 +83,15 @@ footer {
     text-align: center;
     font-family: "Roboto", sans-serif;
     font-weight: 300;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  /* Adjust the margin-bottom of the main content to accommodate the footer */
+  .main-content {
+    margin-bottom: 80px; /* Adjust the value as needed */
   }
   
   /* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
