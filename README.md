@@ -6,7 +6,7 @@
   <body>
     <div class="topnav">
       <a href="cv/Wu_Katherine_CV.pdf">cv</a>
-      <a href="https://kjw58.github.io/katiewu.github.io/">about</a>
+      <a href="https://kjw58.github.io/katiewu/">about</a>
       <h1>Katie Wu</h1>
     </div>
     <div class="left-column">
