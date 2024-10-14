@@ -83,11 +83,10 @@
     padding: 10px 0;
     text-align: left; /* Align text to the left */
     font-size: 0.75rem;
-    position: absolute; /* Use absolute positioning */
-    bottom: 0; /* Position at the bottom of the page */
-    left: 0; /* Align to the far left */
+    float: left; /* Move footer to the left */
     width: auto; /* Remove full-width */
 }
+
 
 footer p {
     margin: 0;
