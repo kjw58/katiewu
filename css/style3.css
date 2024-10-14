@@ -1,30 +1,3 @@
-/* Reset */
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
-html, body {
-    height: 100%;
-    margin: 0;
-}
-
-/* Body styling */
-body {
-    font-family: "Roboto", sans-serif;
-    display: flex;
-    flex-direction: column;
-    min-height: 100vh; /* Ensure body takes full height */
-}
-
-/* Main content */
-.main-content {
-    flex: 1; /* Makes sure main content takes available space */
-    padding: 20px;
-    font-size: 20px;
-}
-
 /* Navbar */
 .topnav {
     overflow: hidden;
@@ -46,11 +19,61 @@ body {
 
 /* Page title */
 h1 {
+    /*float: left;*/
     color: #413839;
     font-size: 22px;
     font-weight: bold;
     text-align: left;
     padding: 0px 16px;
+}
+
+/* Columns */
+.left-column {
+    list-style: none;
+    float: left;
+    width: 20%; /* Adjust the width as needed */
+    font-size: 14px;
+    height: auto;
+    margin-right: 20px;
+}
+
+.left-column li {
+    list-style: none;
+    color: #413839;
+    font-family: "Roboto", sans-serif;
+    margin-bottom: 10px;
+}
+
+.right-column {
+    padding: 20px;
+}
+
+.main-image {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+/* Main content */
+.main-content {
+    margin-left: 20%; /* Adjust the margin to match the width of the left column */
+    padding: 20px;
+    font-size: 20px;
+    font-family: "Roboto", sans-serif !important;
+    font-weight: 300;
+}
+
+.body {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+}
+
+h2 {
+    color: #34282C;
+    font-family: "Roboto", sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+    text-align: left;
 }
 
 /* Footer */
@@ -59,9 +82,8 @@ footer {
     color: #6c757d; /* Subtle text color */
     padding: 20px 0; /* Top and bottom padding */
     text-align: center; /* Center the text */
-    font-size: 0.75rem; /* Smaller font size */
+    font-size: 0.8rem; /* Smaller font size */
     position: relative;
-    bottom: 0;
     width: 100%;
     border-top: 1px solid #eaeaea; /* Optional border */
 }
@@ -79,9 +101,10 @@ footer a:hover {
     text-decoration: underline; /* Link hover effect */
 }
 
-/* Responsive layout */
+/* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 600px) {
-    .left-column, .right-column {
+    .left-column,
+    .right-column {
         width: 100%;
         padding: 0;
     }
@@ -91,6 +114,7 @@ footer a:hover {
     }
 }
 
+/* Responsive layout - when the screen is less than 400px wide, make the navigation links stack on top of each other instead of next to each other */
 @media screen and (max-width: 400px) {
     .topnav a {
         float: none;
