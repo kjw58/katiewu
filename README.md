@@ -1,7 +1,7 @@
 <html>
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="stylesheet" type="text/css" href="css/style2.css">
   </head>
   <body>
     <div class="topnav">
@@ -33,7 +33,7 @@
       <p>My research focuses on the impact of community-driven social interventions and infrastructure development on community and climate resilience in informal settlements. I'm interested in advancing our operationalization of resilience to better inform community-based strategies, policy, and investment in urban transformation for vulnerable populations. I incorporate participatory methods essential for driving community-led efforts, ensuring a community's deep participation in every step of the iterative analysis, planning, and decision-making processes, alongside multi-sectoral partners and decision-makers. I employ a variety of unconventional data sources, including satellite imagery and citizen-sourced data to model the built and natural environment for geographical locations with limited conventional data. I am co-advised by <a href="https://naturalcapitalproject.stanford.edu/people/gretchen-daily">Gretchen Daily</a> (Natural Capital Project) and <a href="https://sustainability.stanford.edu/people/abby-king">Abby King</a> (Our Voice: Citizen Science for Health Equity).</p> 
       <p>Prior to Stanford, I studied data science and AI for Product Innovation at Duke University, where I obtained a Master of Engineering Management (MEM). I was a Sustainability Graduate Intern at Lyft, Inc. where I completed and rebuilt their 2020 Greenhouse Gas (GHG) Inventory and Report and designed an air quality model forecasting potential health benefits of EV adoption for underserved communities. I received an M.S. in Medical Science from the University of Colorado School of Medicine and a B.S. in Animal Science with Distinction in Research from Cornell University. I'm a <a href="https://sustainability.stanford.edu/our-community/dei/community-dei-resources/prospective-students/sdss-deans-graduate-scholars-award">Dean's Graduate Scholar</a> in the Doerr School of Sustainability, an <a href="https://stvp.stanford.edu/emerson-consequential-scholars-program/">Emerson Consequential Scholar</a> with the Stanford Technology Ventures Program (STVP), a Graduate Fellow at the <a href="https://hai.stanford.edu/">Stanford Institute for Human-Centered AI (HAI)</a>, and a <a href ="https://www.dalailamafellows.com/#main">Stanford Dalai Lama Fellow</a>.</p>
     </main>
-    <footer class="fixed-bottom">
+    <footer>
         <p>&copy; Copyright 2024 Katie Wu.
         Hosted by GitHub Pages.
         Last Updated: October 13, 2024.
