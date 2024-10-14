@@ -77,7 +77,7 @@
   }
   
   /* Footer */
-  footer.fixed-bottom {
+  footer {
     background-color: transparent; /* Removes the background color */
     color: #6c757d; /* Subtle text color */
     padding: 10px 0; /* Top and bottom padding */
