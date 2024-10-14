@@ -78,15 +78,15 @@
   
   /* Footer */
   footer {
-    background-color: transparent; /* Removes the background color */
-    color: #6c757d; /* Subtle text color */
-    padding: 10px 0; /* Top and bottom padding */
-    text-align: center; /* Center the text */
-    font-size: 0.75rem; /* Smaller font size */
-    position: relative;
-    width: 100%; /* Ensures the footer spans the entire width */
-    border-top: none; /* Removes the top border/line */
-    left: 0; /* Ensure the footer starts at the left edge */
+    background-color: transparent;
+    color: #6c757d;
+    padding: 10px 0;
+    text-align: left; /* Align text to the left */
+    font-size: 0.75rem;
+    position: absolute; /* Use absolute positioning */
+    bottom: 0; /* Position at the bottom of the page */
+    left: 0; /* Align to the far left */
+    width: auto; /* Remove full-width */
 }
 
 footer p {
