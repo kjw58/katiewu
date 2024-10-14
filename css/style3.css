@@ -80,7 +80,7 @@
   footer.fixed-bottom {
     background-color: #f8f9fa; /* Light background for the entire width */
     color: #6c757d; /* Subtle text color */
-    padding: 20px 0; /* Top and bottom padding */
+    padding: 10px 0; /* Top and bottom padding */
     text-align: center; /* Center the text */
     font-size: 0.75rem; /* Smaller font size */
     position: relative;
