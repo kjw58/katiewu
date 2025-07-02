@@ -5,13 +5,13 @@
   </head>
   <body>
     <div class="topnav">
-      <a href="cv/Wu_Katie_CV.pdf">cv</a>
+      <a href="cv/WuKatie_CV_25.07.pdf">cv</a>
       <a href="https://kjw58.github.io/katiewu/">about</a>
       <h1>Katie Wu</h1>
     </div>
     <div class="left-column">
       <div>
-        <img src="./img/headshot_circle2.png" class="main-image">
+        <img src="./img/headshot_circle.png" class="main-image">
         <ul>
           <p>PhD Candidate @ Stanford, Emmett Interdisciplinary Program in Environment and Resources (E-IPER), Minor in Civil and Environmental Engineering; researches sustainable cities and society + community resilience and well-being </p>
           <li><a href="https://www.linkedin.com/in/katiewu24/">
