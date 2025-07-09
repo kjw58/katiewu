@@ -1,0 +1,182 @@
+/* Base styles: body, headings, links */
+body {
+  background-color: #121212;   /* dark charcoal background */
+  color: #e0e0e0;              /* light gray text */
+  font-family: 'Inter', sans-serif;
+  font-weight: 300;
+  line-height: 1.6;
+}
+
+h1, h2, h3 {
+  font-weight: 700;
+  color: #ffffff;
+}
+
+a {
+  color: #3fa9f5;              /* soft blue link */
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Navbar */
+.topnav {
+  overflow: hidden;
+}
+
+.topnav a {
+  float: right;
+  display: block;
+  color: #e0e0e0;              /* updated to light text */
+  font-size: 22px;
+  text-align: left;
+  padding: 0px 16px;
+  text-decoration: none;
+}
+
+.topnav a:hover {
+  text-decoration: underline;
+}
+
+/* Page title in navbar */
+.topnav h1 {
+  color: #ffffff;              /* white for contrast */
+  font-size: 22px;
+  font-weight: 700;
+  text-align: left;
+  padding: 0px 16px;
+}
+
+/* === Hero Banner Section === */
+.hero {
+  position: relative;
+  width: 100%;
+  height: 300px;
+  background-image: url('../img/CiudadBolivar.jpg');
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.hero-text {
+  color: #ffffff;
+  text-align: center;
+  background: rgba(0, 0, 0, 0.4);
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.hero-text h1 {
+  margin: 0;
+  font-size: 2.5em;
+}
+
+.hero-text p {
+  margin: 10px 0 0;
+  font-size: 1.5em;
+}
+
+/* Columns */
+.left-column {
+  list-style: none;
+  float: left;
+  width: 25%;
+  font-size: 14px;
+  height: auto;
+  margin-right: 20px;
+  padding-top: 50px;
+}
+
+.left-column li {
+  list-style: none;
+  color: #e0e0e0;              /* light text */
+  font-family: 'Inter', sans-serif;
+  margin-bottom: 10px;
+}
+
+.right-column {
+  padding: 20px;
+}
+
+.main-image {
+  display: block;
+  width: 60%;
+  height: auto;
+  margin: 30px auto 0;
+  border-radius: 50%;
+}
+
+/* Main content */
+.main-content {
+  margin-left: 25%;            /* match left-column width */
+  padding: 20px;
+  font-size: 20px;
+  font-family: 'Inter', sans-serif !important;
+  font-weight: 300;
+  line-height: 1.6;
+}
+
+h2 {
+  color: #ffffff;
+  font-family: 'Inter', sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  text-align: left;
+}
+
+/* Footer */
+footer {
+  background-color: transparent;
+  color: #6c757d;
+  padding: 10px 0;
+  text-align: center;
+  font-size: 0.75rem;
+  position: relative;
+  width: 100%;
+  border-top: none;
+  left: 0;
+}
+
+footer p {
+  margin: 0;
+}
+
+footer a {
+  color: #3fa9f5;              /* match link color */
+  text-decoration: none;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
+
+footer .social-icons {
+  text-align: center;          /* center icons */
+  margin: 10px 0;
+}
+
+footer .social-icons a {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+footer .social-icons img {
+  width: 24px;
+  height: auto;
+  vertical-align: middle;
+  transition: opacity 0.3s ease;
+}
+
+footer .social-icons img:hover {
+  opacity: 0.7;
+}
+
+/* Responsive layout */
+@media screen and (max-width: 600px) {
+  .left-column,
+  .right-column {
+    float
