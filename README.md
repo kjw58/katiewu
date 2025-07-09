@@ -1,8 +1,8 @@
-# 🌍 Katie Wu | Personal Website
+# 🌍 Katie Wu
 
 This repository contains my personal academic website, where I share my research, CV, and social media links.
 
-🔗 [View the live site](https://kjw58.github.io/katiewu/)
+[View the live site!](https://kjw58.github.io/katiewu/)
 
 ---
 
