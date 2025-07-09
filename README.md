@@ -36,7 +36,7 @@
     <footer>
         <p>&copy; Copyright 2025 Katie Wu.
         Hosted by GitHub Pages.
-        Last Updated: July 2, 2025.
+        Last Updated: July 8, 2025.
         </p>
     </footer>
   </body>
