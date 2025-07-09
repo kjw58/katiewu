@@ -6,7 +6,7 @@ This repository contains my personal academic website, where I share my research
 
 ---
 
-## About
+## About This Site
 
 - Built with HTML and CSS
 - Hosted on GitHub Pages
@@ -16,4 +16,4 @@ This repository contains my personal academic website, where I share my research
 
 ## Contact
 
-Feel free to [email me](katwu@stanford.edu) or connect on [LinkedIn](https://www.linkedin.com/in/katiewu24/).
+Feel free to [email me](katwu@stanford.edu) or connect on [LinkedIn](https://www.linkedin.com/in/katiewu24/)!
