@@ -136,19 +136,21 @@
   }
   
   /* Responsive layout */
-  @media screen and (max-width: 600px) {
+@media screen and (max-width: 600px) {
     .left-column,
     .right-column {
+      float: none;    
       width: 100%;
       padding: 0;
     }
   
     .main-content {
-      margin-left: 0;
+      margin-left: 0; 
+      width: 100%;     
     }
   
     .hero {
-      height: 200px;
+      height: 200px; 
     }
   
     .hero-text h1 {
@@ -158,12 +160,11 @@
     .hero-text p {
       font-size: 1em;
     }
-  }
   
-  @media screen and (max-width: 400px) {
     .topnav a {
-      float: none;
+      float: none; 
       width: 100%;
     }
+   
   }
   
