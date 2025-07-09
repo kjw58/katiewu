@@ -10,7 +10,7 @@ This repository contains my personal academic website, where I share my research
 
 - Built with HTML and CSS
 - Hosted on GitHub Pages
-- Custom theme
+- Designed and coded my own custom theme for this site
 
 ---
 
