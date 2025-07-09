@@ -179,4 +179,30 @@ footer .social-icons img:hover {
 @media screen and (max-width: 600px) {
   .left-column,
   .right-column {
-    float
+    float: none;   /* 👈 key! disables float so columns stack */
+    width: 100%;   /* full width when stacked */
+    padding: 0;    /* optional: remove side padding */
+  }
+
+  .main-content {
+    margin-left: 0;  /* no left margin when stacked */
+    width: 100%;
+  }
+
+  .hero {
+    height: 200px;   /* adjust hero height for mobile if needed */
+  }
+
+  .hero-text h1 {
+    font-size: 1.8em;
+  }
+
+  .hero-text p {
+    font-size: 1em;
+  }
+
+  .topnav a {
+    float: none;  /* stack nav links vertically */
+    width: 100%;
+  }
+}
